@@ -1,2 +1,2 @@
 aiogram
---force-reinstall -v "aiogram==2.23.1"
+aiogram==2.23.1 --force-reinstall -v
